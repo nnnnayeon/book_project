@@ -1,0 +1,45 @@
+.t_header{
+    display: flex;
+    justify-content: space-between;
+    background-color: antiquewhite;
+}
+
+.topMenu{
+    display: flex;
+}
+
+.join{
+    margin-right: 50px;
+}
+
+.userName{
+    margin-right: 50px;
+}
+
+.b_headerWrap{
+    display: flex;
+    justify-content: center;
+}
+
+.b_header{
+    display: flex;
+    justify-content: space-between;
+    background-color: beige;
+    width: 800px;
+}
+
+.o_botMenu{
+    display: flex;
+}
+
+.board{
+    margin-left: 50px;
+}
+
+.t_botMenu{
+    display: flex;
+}
+
+.search{
+    margin-right: 50px;
+}

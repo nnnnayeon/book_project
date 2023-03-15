@@ -1,0 +1,8 @@
+.im{
+    display: flex;
+    justify-content: center;
+}
+
+.backImage{
+    height: 80vh;
+}
