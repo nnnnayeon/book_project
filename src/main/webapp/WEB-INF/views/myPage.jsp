@@ -9,10 +9,15 @@
 <c:import url="header.jsp"></c:import>
 
 <div class="wrap">
+
+    <div class="myInfo">
+        <p class="updateBtn" onclick="location.href='#'">정보 관리</p>
+    </div>
+
     <div class="myMenu">
-        <p class="dibs">찜 목록</p>
-        <p class="recent">나의 서재</p>
-        <p class="dibs">마이 리뷰</p>
+        <p class="dibs" onclick="location.href='#'">찜 목록</p>
+        <p class="recent" onclick="location.href='#'">나의 서재</p>
+        <p class="dibs" onclick="location.href='#'">마이 리뷰</p>
     </div>
 </div>
 
